@@ -1,4 +1,4 @@
 COMP2022
 ========
 
-For Assignment 2
+LL(1) table driven parser in Python.
